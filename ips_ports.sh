@@ -1,6 +1,6 @@
 #!/bin/sh
 
-NETWORK=192.168.80
+NETWORK=192.168.XX
 FILE="ips_ports_improve.txt"
 true > "$FILE"  # Ensure the file is empty
 

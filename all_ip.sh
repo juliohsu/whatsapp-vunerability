@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NETWORK=192.168.80
+NETWORK=192.168.XX
 FILE_NAME="all_ip.txt"
 true > $FILE_NAME
 
